@@ -1,0 +1,13 @@
+.lista-licores-container{
+	color:#4497c7;
+	display:inline-block;
+	position: relative;
+    font-weight: 600;
+	display: table-row;
+
+}
+table{
+	border-collapse:separate;
+}
+
+

@@ -1,0 +1,9 @@
+.formtable-container{
+    
+    width: 95%;
+    margin: 0 auto;
+    min-height: 390px;
+    margin-top: 10px;
+    border: 10px solid green;
+    color:darkcyan;
+}
